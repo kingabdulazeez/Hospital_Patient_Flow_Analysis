@@ -205,7 +205,7 @@ Interactive slicers allow users to analyse hospital performance by:
 ## Repository Structure
 
 ```text
-hospital-patient-flow-analysis/
+Hospital_Patient_Flow_Analysis/
 │
 ├── Hospital_Analysis_Bolaji.ipynb
 ├── Hospital_patient_flow_sql.sql
